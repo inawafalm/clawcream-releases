@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ClawCream</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 15 Feb 2026 17:40:06 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0/ClawCream-1.0.dmg" length="248626931" type="application/octet-stream" sparkle:edSignature="w2BWUouRMHkIdWJUrOxSi+8biAQj3S2XwVCnATtpQlDQYkZPD0oTW+MeRADERfgi3KWFlFdKZKrtUt6o56tYAA=="/>
+        </item>
+    </channel>
+</rss>
