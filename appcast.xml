@@ -8,10 +8,10 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream-1.0.3.dmg" length="253927911" type="application/octet-stream" sparkle:edSignature="VOZ823odXdYr/EpdbpJgBSBDnEM5Iw5AQbTFXUN44FCOZglJfvNUiE6dTJpj1ovQu24QCjHoreXSPASl9uQ5Bg=="/>
+            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.3/ClawCream-1.0.3.dmg" length="253927911" type="application/octet-stream" sparkle:edSignature="VOZ823odXdYr/EpdbpJgBSBDnEM5Iw5AQbTFXUN44FCOZglJfvNUiE6dTJpj1ovQu24QCjHoreXSPASl9uQ5Bg=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream13-12.delta" sparkle:deltaFrom="12" length="5212338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ke1U7O1Wx78x2FZXA9K08T+AIxNX3QYtwcM8O7yJed0jrzDZCP0MDv+SFSED+/hQe624BrIStHKpYL2qZ/LqBw=="/>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream13-9.delta" sparkle:deltaFrom="9" length="8062694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yYQxo8ld5dRxJk22N3aodtlhACVBUpjBI/4BTokxK5ApVo9GsPkTx4xvXYuVpJev0clrvOyJJ7keBU9LusbrAA=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.3/ClawCream13-12.delta" sparkle:deltaFrom="12" length="5212338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Ke1U7O1Wx78x2FZXA9K08T+AIxNX3QYtwcM8O7yJed0jrzDZCP0MDv+SFSED+/hQe624BrIStHKpYL2qZ/LqBw=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.3/ClawCream13-9.delta" sparkle:deltaFrom="9" length="8062694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yYQxo8ld5dRxJk22N3aodtlhACVBUpjBI/4BTokxK5ApVo9GsPkTx4xvXYuVpJev0clrvOyJJ7keBU9LusbrAA=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream-1.0.2.dmg" length="249722936" type="application/octet-stream" sparkle:edSignature="53ryW3L2cIXdj1Q0N6udUy6abuz+bDmyVI2SuQ8lWCGuplmko7UVYqB7XnSmDjarJMy7aIl0uEd9shbRklfBCQ=="/>
+            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.2/ClawCream-1.0.2.dmg" length="249722936" type="application/octet-stream" sparkle:edSignature="53ryW3L2cIXdj1Q0N6udUy6abuz+bDmyVI2SuQ8lWCGuplmko7UVYqB7XnSmDjarJMy7aIl0uEd9shbRklfBCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.2/ClawCream12-9.delta" sparkle:deltaFrom="9" length="4645602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="p70mdKFag+B1M1aJRHfUUPrzPmzFluj4Il0E9OTZxBUXukegRvXM3a/MDwiQfeA+7p9RGcv8V6aDzJrH8GqqCg=="/>
             </sparkle:deltas>
@@ -31,7 +31,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream-1.0.dmg" length="248626931" type="application/octet-stream" sparkle:edSignature="w2BWUouRMHkIdWJUrOxSi+8biAQj3S2XwVCnATtpQlDQYkZPD0oTW+MeRADERfgi3KWFlFdKZKrtUt6o56tYAA=="/>
+            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0/ClawCream-1.0.dmg" length="248626931" type="application/octet-stream" sparkle:edSignature="w2BWUouRMHkIdWJUrOxSi+8biAQj3S2XwVCnATtpQlDQYkZPD0oTW+MeRADERfgi3KWFlFdKZKrtUt6o56tYAA=="/>
         </item>
     </channel>
 </rss>
