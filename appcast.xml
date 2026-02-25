@@ -3,6 +3,36 @@
     <channel>
         <title>ClawCream</title>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Wed, 25 Feb 2026 03:00:22 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.9/ClawCream-1.0.9.dmg" length="253356179" type="application/octet-stream" sparkle:edSignature="rlTxycSZn3Igf4YsQYazIojG5USIYWwni7lycWJPFkycmUCs/u71QRkO+tNNASXLGrc76rAhnx3JSX+mkERxDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.9/ClawCream20-19.delta" sparkle:deltaFrom="19" length="91706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="48oaIXz67uEc7Ke+XWApmxA6CzjWROG7hB0XgHmBeMkkPdsiXXn8QpyVdTw5azjo3Py8AWuB131oY/OOlkpBCA=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.9/ClawCream20-17.delta" sparkle:deltaFrom="17" length="3208334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OXpBalWKl05NbjHl4iHop81Xt3T17L0YzjaaR2ai+fvl/KwfXaszy2RhRwpeWOE1mXs/s0ZtT0i7nFAEWTZ6DQ=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.9/ClawCream20-15.delta" sparkle:deltaFrom="15" length="5228022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="02qm8og6AHC89oHTXn/UcwMYzYyGScHoKn5+5u+vDbDkT5iVJqKpPa0wggSHpLH25oEkds/LGJc8KItvTjbaAw=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.9/ClawCream20-13.delta" sparkle:deltaFrom="13" length="5329262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/pMfeQ9cUN7hDv5pTgtGefM+mSSU85WR8hCBeUL/2Neo1bdOHcczE+3FQXcqfIPXc9MHvCQA58GHOdCWMyjAAA=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.9/ClawCream20-12.delta" sparkle:deltaFrom="12" length="8803506" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QhqczMlXAo4D9qQ3ErTL7uOAep1zg51ulqpF2EoJ+z0R/whLRr5UV8Lulrjtvm4I2U5wZWZxiHOmXzUPG2SmDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.8</title>
+            <pubDate>Wed, 25 Feb 2026 01:50:31 +0300</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream-1.0.8.dmg" length="253356231" type="application/octet-stream" sparkle:edSignature="qPX5/bmisgmR48OHeNpD8y00C31IrxcFjJh6RjQLIUCidl64wbLLjBivAuoHrmGrvuvUWzXBQtz3xfGnafxmDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream19-17.delta" sparkle:deltaFrom="17" length="3209850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IRr0ITdUlynpNS8idTQu3VgE7lTBknqALIkXwmlOw2/qu1x9HK9IJU1pIi9E+4gpDESNMHXAq1nSGMVzIUj6CQ=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream19-15.delta" sparkle:deltaFrom="15" length="5225194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="N1HuACxODskj/l+vcDG+/ZE0B43F0VJxxh9nR83zwHhhSY6Q6v6zoH+bZhxYk/NZv+4b8nIfHujSEGkn/1zXDw=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream19-13.delta" sparkle:deltaFrom="13" length="5329474" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vj4TvyZ9V9CWLfCauEnCI7rNxdDc6AWrTnSWf4CyIa1jKM7qIXmImDDTN6U+y+UFhTrvB4+JTiu29l9ecsH8BQ=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream19-12.delta" sparkle:deltaFrom="12" length="8802870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oSdZGvxqfzakjgiScUSMPwKAyYwPHZjPqgSRHwaPGHvKz47LF9ZuKpUci5Dpvn4D2y1ngc2zuv7C29qVB/A0BQ=="/>
+                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream19-9.delta" sparkle:deltaFrom="9" length="9377198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b+lC9C8KRiW1Acq1pfd8cFB/HT7T3blPqRSm5ngvBy1xANR8953mvm7zuFXT8Atk8VYhna0KFABF6EFfNk0uCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Tue, 24 Feb 2026 17:17:34 +0300</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -15,33 +45,6 @@
                 <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream18-13.delta" sparkle:deltaFrom="13" length="5255478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FTDMetzPf3lQM4GnubTDSUOylAkt5ToR7CNWsFjqBh0VpmTet3lBzZGCsaMiUAiJYvd4Tc/Pf4pTbe+kP7kWDA=="/>
                 <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream18-12.delta" sparkle:deltaFrom="12" length="8744310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rm706kuFn8+GhD+fgWQFb018nOSsRqsYVQrGBZ4JQKxM0w0Q/dSyUyc7btKC0Z3iAQUc6M51+493swbanh7dCg=="/>
                 <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.8/ClawCream18-9.delta" sparkle:deltaFrom="9" length="9349246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QnUoxgqIazll2fYSAlvva9US6CmGG37LYQH4+u4riLg9gosGmHCWlc2KY78VC5OPu9A/3iXuMiYkIAxghOfBAA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.6</title>
-            <pubDate>Tue, 24 Feb 2026 02:24:46 +0300</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.6/ClawCream-1.0.6.dmg" length="253506084" type="application/octet-stream" sparkle:edSignature="uuRuLsTOdqe9mkocd1u+qdVikZreDUgUP3expbXcv2pEXJ0atNuzUVNEkdw27L7eFyb2ytOUC+/WJe51DttZCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.6/ClawCream17-15.delta" sparkle:deltaFrom="15" length="3384626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tJTyCDoQLFQCOuhdL0309NdYvdkXbkwnvmW8yarQLDYnNHxzZtoIPMTYKNP6ekU2fq993edU6AUAhwSoljCTAA=="/>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.6/ClawCream17-13.delta" sparkle:deltaFrom="13" length="3493618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mSjIxN54pIzOkzCr1dqUL9jjdZW5SflTa3/tcxGeZB8/RTkOz7xZvJ+xeMTBmc4gP2wzn2YX7fdczeKsdy0OBg=="/>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.6/ClawCream17-12.delta" sparkle:deltaFrom="12" length="6991626" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pjh1UgWmSwaavi8i6bKNAly6Rv0nu/p97HHXn656Z/I4ZHb3cdLK3Kb2IzbrpVC2bsye2RBAHF93WwrCbb8aBw=="/>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.6/ClawCream17-9.delta" sparkle:deltaFrom="9" length="9474238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WyKLJOJ2kjoqvh6JQ76ufRXs5c3ZCfictwb73FpuG28+i5V5wy+SM8kng2ftLsKPHMbc0sx2JtVTkH6APKvVCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Mon, 23 Feb 2026 05:56:45 +0300</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream-1.0.5.dmg" length="254096116" type="application/octet-stream" sparkle:edSignature="AM57/yJxiRl1C9i7e+39LDosfx5uIR4CVmIl6iye5nZ0lU5DyFQKtlvpMWNnsn4DHnHzM2SsC7eXH2i+X+NnCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream15-13.delta" sparkle:deltaFrom="13" length="1723890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j/RZtO6Ye7nk3PsGW9MDNxV8g/2RbAULXegUOgQcGGfhuZ7t4oI1I48JRpsdqdyxzyZnAKakEKRHlfapRBAiBA=="/>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream15-12.delta" sparkle:deltaFrom="12" length="5408146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/RWQuKYUAilzSRwuP7KZrLJTUmRvAef70xhC1SDS0rZvPdXKYqfNA1d5LVhHbaTEYnAYG1hfdoncFcK915ukCQ=="/>
-                <enclosure url="https://github.com/inawafalm/clawcream-releases/releases/download/v1.0.5/ClawCream15-9.delta" sparkle:deltaFrom="9" length="8208446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QcyiRoYL9dI+CNUkJpDlsgmftbEMhdu1cYed/8jJSQvquV3WJbd7ANEIs4Y4DNFKODB/iDoVmigWpeGoC2O2BQ=="/>
             </sparkle:deltas>
         </item>
     </channel>
